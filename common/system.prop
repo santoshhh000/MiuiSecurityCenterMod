@@ -1,0 +1,2 @@
+# This file will be read by resetprop
+persist.sys.power.default.powermode=1
